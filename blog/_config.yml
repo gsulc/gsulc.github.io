@@ -23,8 +23,8 @@ email: gordon.sulc@gmail.com
 description: >-
   My personal blog where I write about things that 
   interest me. Mostly software development.
-baseurl: "/blog"
-url: "https://gsulc.github.io"
+baseurl: "" # /blog
+url: "" # http://example.com
 twitter_username: ""
 github_username:  gsulc
 
