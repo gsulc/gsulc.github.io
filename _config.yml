@@ -25,8 +25,8 @@ description: >-
   interest me. Mostly software development.
 baseurl: "" # /blog
 url: "" # http://example.com
-twitter_username: ""
 github_username:  gsulc
+instagram_username: gsulc
 
 # Build settings
 theme: minima
