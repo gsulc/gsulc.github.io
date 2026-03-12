@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Gordon Sulc. I am a software engineer at Hamilton Storage, where I design robotic control software. I'm interested in clean code and architecture. In my free time, I enjoy racing motorcycles, backpacking, hiking, travel, and photography.
+My name is Gordon Sulc. I am a software engineer at Suntra MedTech Solutions, where I develop medical applications. I'm interested in clean code and architecture. In my free time, I enjoy racing motorcycles, rock climbing, and photography.
 
 ## Projects
 
@@ -13,4 +13,3 @@ My name is Gordon Sulc. I am a software engineer at Hamilton Storage, where I de
 
 ### NModbus.UI
 [NModbus.UI](https://github.com/gsulc/NModbus.UI) is a user interface for reading/writing Modbus objects. Only Modbus master functionality is implemented at the moment.
-
